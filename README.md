@@ -9,7 +9,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=80&lines=Data+Analyst;Back-End+Developer;Data+Engineer;Data+Scientist">
   </a>
 </p>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 <h2>Languages and Tools</h2>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
