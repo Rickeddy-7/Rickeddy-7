@@ -1,14 +1,16 @@
 
-<h1 align="center">Hey! I'm Rickeddy (Yes, 2 names in one)
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hey! I'm Rickeddy (Yes, 2 names in one)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px">
 </h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=80&lines=Data+Analyst;Back-End+Developer;Data+Engineer;Data+Scientist">
   </a>
 </p>
-### Languages and Tools
+
+<h2>Languages and Tools</h2>
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
